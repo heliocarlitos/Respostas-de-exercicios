@@ -28,6 +28,10 @@ x
 
 Isso ocorre porque a condição `(x < y)` é verdadeira, e o operador ternário atribui `'x'` à variável `z`. Portanto, o console.log(z) imprimirá `'x'` no console. Note que há um pequeno erro de digitação no código fornecido: `conslole.log(z);`. A chamada correta seria `console.log(z);`.
 
-<div align='center'>
-[Licença](https://hcadeveloper.github.io/Licenca-MIT/)
-</div>
+<hr>
+
+<span align='center'>
+   
+   Créditos [HCA](https://hcadeveloper.github.io/Licenca-MIT/)
+   
+</span>
